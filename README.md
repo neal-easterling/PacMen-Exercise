@@ -11,7 +11,7 @@
   - Download repo.
   - Open index.html in live server.
 
-  - OR [visit demo site](#)
+  - OR [visit demo site](https://neal-easterling.github.io/hosting/pacmen/index.html)
 
   ## Future Development
 
